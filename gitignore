@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# CNAB / output files (may contain sensitive data)
+*.ret
+*.csv
+*.xlsx
+
+# OS
+.DS_Store
